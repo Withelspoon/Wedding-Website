@@ -35,31 +35,7 @@ body {
 
 
 
-.jumbotron {
-  display: flex;
-  align-items: left;
-  background-image: url('https://drive.google.com/uc?id=1eXlg3BeFSuju7uaiOdwiuiNEK4bAzhdG');
-  background-size: cover;
-  color: #ffffff;
-  height: 700px;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
-}
 
-.jumbotron h2 {
-  margin-top:90%;
-  font-family: 'Sacramento', cursive;
-  font-size: 60px;
-  font-weight: 700;
-  margin: 0;
-  color: #99004d;
-}
-
-.jumbotron h3 {
-  margin: 0 0 20px;
-  font-size: 60px;
-  font-family: 'Sacramento', cursive;
-  color: #99004d;
-}
 
 #page {
   position: relative;
